@@ -7,4 +7,4 @@ This minigame was made using only HTML, CSS and JavaScript.
 
 I used this ButtonRippleEffect project to apply some practical concepts to improve my Javascript
 ## :camera_flash: ButtonRippleEffect GIF
-<img src="Animacao.gif" width="10%">
+<img src="Animacao.gif" width="30%">
